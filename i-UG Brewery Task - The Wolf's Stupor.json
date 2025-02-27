@@ -1,0 +1,4466 @@
+[
+    {
+        "id": "4ac6ef51dde99703",
+        "type": "tab",
+        "label": "The Brewery",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "3945a690f7bdc08a",
+        "type": "group",
+        "z": "4ac6ef51dde99703",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "09f62794fb174918",
+            "5c57b978773c753b",
+            "0d5b6443ce25b6df",
+            "c39fd1c1f5ed98ed",
+            "af9832731bef2cfe",
+            "416e9c031276c18b",
+            "9723bebd1cba6ab0",
+            "53290cf7fe0605d7",
+            "34380a0db8905749",
+            "9829cd2ebe6a8686",
+            "51ba2da539668c88"
+        ],
+        "x": 1334,
+        "y": 99,
+        "w": 912,
+        "h": 302
+    },
+    {
+        "id": "025e89a709ed763f",
+        "type": "group",
+        "z": "4ac6ef51dde99703",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7949fc5561cfccdf",
+            "4e2210c45c515c25",
+            "4304804bb31e042c",
+            "f70c2f062b9655b7",
+            "025a74fb0851934b",
+            "fb60a24e22f87643",
+            "ae94cb048ebb7896",
+            "bd5759c9f83743b3",
+            "f22b3c8b5940cd3b",
+            "62053168264fc9a8",
+            "8f8e102b755201da",
+            "5f6b6b2493149c10",
+            "66bbbafe31805eae",
+            "0b33ca5e31ce4487"
+        ],
+        "x": 1334,
+        "y": 459,
+        "w": 912,
+        "h": 302
+    },
+    {
+        "id": "99982cf5224698e8",
+        "type": "group",
+        "z": "4ac6ef51dde99703",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6ed1d1257cd35ffd",
+            "d9c047a1fd80a9fb",
+            "aa6486475bc66e64",
+            "c01ec7ac6137ccd0",
+            "cc9097ab7b567953",
+            "2495a26ecf7f470d"
+        ],
+        "x": 1994,
+        "y": 2679,
+        "w": 392,
+        "h": 182
+    },
+    {
+        "id": "1000a9b90f04f5aa",
+        "type": "group",
+        "z": "4ac6ef51dde99703",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5f6a864bf9b21d67",
+            "1bdfafddd12dc2c5",
+            "2e3dcdd9c29197fc",
+            "bce33f0fdf5e4820",
+            "35e63e259bcf33d4",
+            "b00684daba3097b4",
+            "d323c5c2a27791b9",
+            "b12bd13258d67f39",
+            "4044dbe9b6d71dfe",
+            "e9bdcb61161af200",
+            "7d438d0c4a219dc7",
+            "4de49e7c9b2a879b",
+            "10135a999e966428",
+            "766e26c3c7c2c65f",
+            "430f2f20e2d47fc1",
+            "c90ca043c5484f1b",
+            "abaac4dbc1352832",
+            "853dffd5ac38280a",
+            "148eca1313d95745",
+            "81da8ec47b3aeee9",
+            "6531f6701f0154dc",
+            "3933f408d085feaa",
+            "6558e644f619e3ae",
+            "c892ec0d734d950f",
+            "322191b362cd3977",
+            "aa068ef746838054",
+            "5605352a6fb9c3f2",
+            "64e075b968f19815",
+            "38d780775a3b8e97"
+        ],
+        "x": 194,
+        "y": 99,
+        "w": 1092,
+        "h": 662
+    },
+    {
+        "id": "2c6626aacac182e4",
+        "type": "group",
+        "z": "4ac6ef51dde99703",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "03e4b67a120326a3",
+            "7cec0f06345159a5",
+            "e1dd65baeba07877",
+            "b0d7682704e24e8c",
+            "598f7b1de375eb7c",
+            "9903422fcdf0acc2",
+            "ed7b207bee625edc",
+            "31d85d2220a8f494",
+            "bafa21e5426b8347",
+            "0e619b8c971d178b",
+            "49f64864cfa5187a",
+            "c92be8f8c795f1a7",
+            "152a020b9f78dfd0",
+            "36e19acec59d8055",
+            "206994866be7f97d",
+            "3551f6735c87fa7c",
+            "3ba54177a67e0dfb",
+            "d6d2ea836f5a5410",
+            "ba91fd22bbcd5393",
+            "ba0e16adab78f0ed"
+        ],
+        "x": 184,
+        "y": 839,
+        "w": 2062,
+        "h": 322
+    },
+    {
+        "id": "797e3026e7a15292",
+        "type": "group",
+        "z": "4ac6ef51dde99703",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a3f8ce8c585ad64c",
+            "38a3bc7905ac1667",
+            "a1fced393e09fa90",
+            "e6d35313f1740786",
+            "5031e8ab34edc16e",
+            "e72f5b96d314313d",
+            "05ab87cabf4fa43a",
+            "124a7e7a614a64d5",
+            "a7f4b3658d6b95e4",
+            "6534381b8fa9fd6c",
+            "dda419b514453e9d",
+            "71d0334f287d47fe",
+            "22f257b0d9a9a53c",
+            "062bc856c3f5a7a7",
+            "1f898c725fa0942e",
+            "7f82a992bebea2b9",
+            "2c43e8341c6a9206",
+            "6cfcc87497a7fab6",
+            "7db3c439b75358a3",
+            "55c4f67cc9ece5ad",
+            "b7a0201133238471",
+            "f396f3f20ebceb12",
+            "998fdfa48a14d18a"
+        ],
+        "x": 184,
+        "y": 1239,
+        "w": 2062,
+        "h": 342
+    },
+    {
+        "id": "5adb3d9f976abbc0",
+        "type": "group",
+        "z": "4ac6ef51dde99703",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "be8f4373a6825513",
+            "7bd6f8a81b665724",
+            "4f6e2f9852068983",
+            "32dba188c2c30d88",
+            "610acd7a4e05c987",
+            "469c61ecfad2eee7",
+            "2d51970ffe6d08b2",
+            "e20c6e7325fb5eac",
+            "0c48ddaf509edebc",
+            "645c34fe372d33ed",
+            "12c7ccaa63e6523b",
+            "431bf0bf25e98cb3",
+            "f7be45b2fac103cb",
+            "c67527a57c35a00f",
+            "a7962671120c4417",
+            "04040cf05d820a22",
+            "bde712312b7d6550",
+            "633d1bd8a93dd2dd",
+            "1d12b82e51f5aa2e",
+            "1b977cd846701344",
+            "83f419733c7b2b21",
+            "f430d17dec6a8e85",
+            "dc91546af6ee2c8c",
+            "9fe89bf27eee6393",
+            "a88c3e36a90bb379",
+            "a17adbc960a8c4c7",
+            "a3dcb8dd7c6dee25",
+            "1989c59d89b5f61f",
+            "6bc791e40a53fc4d",
+            "61449eabbbf29bef",
+            "b018c317561287f8",
+            "05b7d884b4b3feab",
+            "b3166d11bf2a6403",
+            "b41362661536f65f",
+            "1cca3b6e49ce9963",
+            "2880d69703f42a2d",
+            "01012191aa6a8406",
+            "a579f091cf3f85d4",
+            "9621d5df766206ad",
+            "6eba0ed64494c7de",
+            "8bd0069c951df5c5",
+            "191e70096eaf31b4",
+            "e5b6c4000680557d",
+            "cf7d405bbc45de82",
+            "f8aaf6c4c8ec7afd",
+            "44be426ace744d70",
+            "d138c95e036c1b9c",
+            "0d028aa18e04c57b"
+        ],
+        "x": 214,
+        "y": 1659,
+        "w": 2032,
+        "h": 722
+    },
+    {
+        "id": "c1740c1e957f1c34",
+        "type": "group",
+        "z": "4ac6ef51dde99703",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ef3e0b790a7e0408",
+            "2d1d8b68e83f44ec",
+            "cdd8486a923ddda5",
+            "19a3211af91dab39",
+            "c8dbc13507a0476c",
+            "36d12b0e53dd145c",
+            "6507326652545f2d"
+        ],
+        "x": 214,
+        "y": 2459,
+        "w": 1072,
+        "h": 202
+    },
+    {
+        "id": "c80d974c114c1988",
+        "type": "group",
+        "z": "4ac6ef51dde99703",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ca04821291026cd5",
+            "c80e2a85474a3ed9",
+            "3861b011bb48a2d6",
+            "74d5a686f7c3cb87",
+            "f7b129d1bdead6e8",
+            "deb2525f7a347d2b",
+            "02d3221c89685148",
+            "3539bd531b79507f",
+            "b6065eba76e40eaa",
+            "c86ee483ff1ccb0c",
+            "3111ed298461a6c6",
+            "dee4b56d5ee85506",
+            "4c88798eabc00ac0",
+            "ea187f1a9decfbea",
+            "5f86ed05e5b86c0c"
+        ],
+        "x": 214,
+        "y": 2699,
+        "w": 1072,
+        "h": 362
+    },
+    {
+        "id": "a3f8ce8c585ad64c",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "mydb": "c783136d02b66193",
+        "name": "",
+        "arraymode": true,
+        "x": 1820,
+        "y": 1440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "38a3bc7905ac1667",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Record Current Temperature",
+        "func": "let payloadin = parseInt(msg.temp)\nlet station = \"BOIL\"\n\nlet payloadout = `INSERT INTO  IUGRED_99.brewtrans VALUES(current_date, current_time, '${station}', ${payloadin});`\n\n\nmsg.payload = payloadout\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1360,
+        "y": 1440,
+        "wires": [
+            [
+                "a3f8ce8c585ad64c",
+                "a1fced393e09fa90"
+            ]
+        ]
+    },
+    {
+        "id": "a1fced393e09fa90",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Report to table on UI",
+        "func": "let limit = msg.limit || 10\n\nlet payloadout = `(select * from IUGRED_99.Brewtrans where PROCESS_NAME = 'BOIL'\nORDER BY last_update DESC, registered_at DESC limit ${limit}) \nORDER BY last_update ASC, registered_at ASC;` \n\n\nmsg.payload = payloadout\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 1540,
+        "wires": [
+            [
+                "124a7e7a614a64d5"
+            ]
+        ]
+    },
+    {
+        "id": "e6d35313f1740786",
+        "type": "ui_table",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "group": "3e86821e0e02d9da",
+        "name": "Brew flow log",
+        "order": 2,
+        "width": 8,
+        "height": 7,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 2090,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "5031e8ab34edc16e",
+        "type": "gate",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "closed",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 490,
+        "y": 1440,
+        "wires": [
+            [
+                "22f257b0d9a9a53c"
+            ]
+        ]
+    },
+    {
+        "id": "e72f5b96d314313d",
+        "type": "inject",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Close Gate",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "close",
+        "payloadType": "str",
+        "x": 300,
+        "y": 1480,
+        "wires": [
+            [
+                "5031e8ab34edc16e"
+            ]
+        ]
+    },
+    {
+        "id": "05ab87cabf4fa43a",
+        "type": "inject",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Open Gate",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "open",
+        "payloadType": "str",
+        "x": 300,
+        "y": 1400,
+        "wires": [
+            [
+                "5031e8ab34edc16e"
+            ]
+        ]
+    },
+    {
+        "id": "124a7e7a614a64d5",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "mydb": "c783136d02b66193",
+        "name": "RECORD VALUES for BOIL",
+        "arraymode": true,
+        "x": 1880,
+        "y": 1540,
+        "wires": [
+            [
+                "e6d35313f1740786"
+            ]
+        ]
+    },
+    {
+        "id": "a7f4b3658d6b95e4",
+        "type": "ui_gauge",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Brew Temperature",
+        "group": "3e86821e0e02d9da",
+        "order": 1,
+        "width": 8,
+        "height": 9,
+        "gtype": "gage",
+        "title": "Brew Temperature",
+        "label": "units",
+        "format": "{{temp}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e9770c",
+            "#ca3838"
+        ],
+        "seg1": "45",
+        "seg2": "85",
+        "diff": false,
+        "className": "",
+        "x": 1330,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "6534381b8fa9fd6c",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Select last 'x' rows for UI Table",
+        "info": "",
+        "x": 1620,
+        "y": 1500,
+        "wires": []
+    },
+    {
+        "id": "dda419b514453e9d",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Maintain Gauge",
+        "info": "",
+        "x": 1320,
+        "y": 1500,
+        "wires": []
+    },
+    {
+        "id": "71d0334f287d47fe",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "0.2",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 810,
+        "y": 1480,
+        "wires": [
+            [
+                "5031e8ab34edc16e"
+            ]
+        ]
+    },
+    {
+        "id": "22f257b0d9a9a53c",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Therms in & Regulation Logic",
+        "func": "var currentTemp = flow.get('tankTemp') || 0\nvar thermInput = global.get('wkboilin')\n\nlet tankTempProcess = currentTemp + thermInput\n\n// Scaled Thermal Regulation Logic\nif (tankTempProcess > 100) {\n    thermInput = 0;\n    tankTempProcess = currentTemp - 5;  \n} else {\n    if (tankTempProcess < 80) {\n        let diff = 80 - tankTempProcess;\n        tankTempProcess += diff * 0.5;\n    } else if (tankTempProcess > 90) {\n        let diff = tankTempProcess - 90;\n        tankTempProcess -= diff * 0.5;\n    } else {\n        tankTempProcess -= 2;}\n}\n\nflow.set('btankTemp', tankTempProcess)\nflow.set('heatDemandCalc', thermInput);\n\nmsg.temp = tankTempProcess\n\nnode.warn(`Therm Input: ${thermInput}`);\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 810,
+        "y": 1440,
+        "wires": [
+            [
+                "55c4f67cc9ece5ad"
+            ]
+        ]
+    },
+    {
+        "id": "1bdfafddd12dc2c5",
+        "type": "inject",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "INITIALISE BREWING",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "payload2",
+                "v": "0",
+                "vt": "str"
+            },
+            {
+                "p": "limit",
+                "v": "10",
+                "vt": "num"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "p": "temp",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 900,
+        "y": 680,
+        "wires": [
+            [
+                "766e26c3c7c2c65f"
+            ]
+        ]
+    },
+    {
+        "id": "2e3dcdd9c29197fc",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "Water & Therm Losses",
+        "func": "// Water Loss\nvar waterDemand = flow.get('waterDemand')\nconst waterLoss = parseInt(waterDemand) * 0.5\nnode.warn(`Water Loss Calculated: ${waterLoss}`)\n\n// Therm Loss\nvar thermDemand = flow.get('thermDemand')\nconst thermLoss = parseInt(thermDemand) * 0.2\nnode.warn(`Therm Loss Calculated: ${thermLoss}`)\n\nreturn [\n    {payload: `update IUGRED_99.brewctl set PROCESS_LOSSES = ${waterLoss} where PROCESS_NAME = 'WATER' `},\n    {payload: `update IUGRED_99.brewctl set PROCESS_LOSSES = ${thermLoss} where PROCESS_NAME = 'BOIL' `}\n];",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 540,
+        "wires": [
+            [
+                "bce33f0fdf5e4820",
+                "35e63e259bcf33d4",
+                "64e075b968f19815"
+            ]
+        ]
+    },
+    {
+        "id": "bce33f0fdf5e4820",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "mydb": "c783136d02b66193",
+        "name": "PROCESS_LOSSES: WATER",
+        "arraymode": true,
+        "x": 670,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "35e63e259bcf33d4",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "Relay Therm Loss",
+        "func": "msg.payload = msg.payload2\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 640,
+        "wires": [
+            [
+                "3551f6735c87fa7c",
+                "7f82a992bebea2b9"
+            ]
+        ]
+    },
+    {
+        "id": "b00684daba3097b4",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "LOSSES CALCULATION",
+        "info": "",
+        "x": 330,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "062bc856c3f5a7a7",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "BOIL STATION",
+        "info": "",
+        "x": 2140,
+        "y": 1280,
+        "wires": []
+    },
+    {
+        "id": "03e4b67a120326a3",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "mydb": "c783136d02b66193",
+        "name": "RECORD VALUES",
+        "arraymode": true,
+        "x": 1850,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7cec0f06345159a5",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "Record Current Volume",
+        "func": "let payloadin = msg.value\nlet station = \"WATER\"\n\nlet payloadout = `INSERT INTO  IUGRED_99.brewtrans VALUES(current_date, current_time, '${station}', ${payloadin});`\n\nmsg.payload = payloadout\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1350,
+        "y": 1020,
+        "wires": [
+            [
+                "03e4b67a120326a3",
+                "e1dd65baeba07877"
+            ]
+        ]
+    },
+    {
+        "id": "e1dd65baeba07877",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "Report to table on UI",
+        "func": "\nlet limit = msg.limit || 10\n\n\nlet payloadout = `(select * from IUGRED_99.Brewtrans where PROCESS_NAME = 'WATER'\nORDER BY last_update DESC, registered_at DESC limit ${limit}) \nORDER BY last_update ASC, registered_at ASC;` \n \nmsg.payload = payloadout\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1600,
+        "y": 1120,
+        "wires": [
+            [
+                "31d85d2220a8f494"
+            ]
+        ]
+    },
+    {
+        "id": "b0d7682704e24e8c",
+        "type": "ui_table",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "group": "e207eea38c442aee",
+        "name": "Brew water log",
+        "order": 2,
+        "width": 8,
+        "height": 7,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 2120,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "598f7b1de375eb7c",
+        "type": "gate",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "closed",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 510,
+        "y": 1020,
+        "wires": [
+            [
+                "36e19acec59d8055"
+            ]
+        ]
+    },
+    {
+        "id": "9903422fcdf0acc2",
+        "type": "inject",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "Close Gate",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "close",
+        "payloadType": "str",
+        "x": 300,
+        "y": 1060,
+        "wires": [
+            [
+                "598f7b1de375eb7c"
+            ]
+        ]
+    },
+    {
+        "id": "ed7b207bee625edc",
+        "type": "inject",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "Open Gate",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "open",
+        "payloadType": "str",
+        "x": 300,
+        "y": 980,
+        "wires": [
+            [
+                "598f7b1de375eb7c"
+            ]
+        ]
+    },
+    {
+        "id": "31d85d2220a8f494",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "mydb": "c783136d02b66193",
+        "name": "RECORD VALUES for WATER",
+        "arraymode": true,
+        "x": 1890,
+        "y": 1120,
+        "wires": [
+            [
+                "b0d7682704e24e8c"
+            ]
+        ]
+    },
+    {
+        "id": "bafa21e5426b8347",
+        "type": "ui_gauge",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "Brew Fermenter",
+        "group": "e207eea38c442aee",
+        "order": 1,
+        "width": 8,
+        "height": 9,
+        "gtype": "wave",
+        "title": "Brew Fermenter",
+        "label": "Litres",
+        "format": "{{value | number}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "45",
+        "seg2": "85",
+        "diff": false,
+        "className": "",
+        "x": 1320,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "0e619b8c971d178b",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "Select last 'x' rows for UI Table",
+        "info": "",
+        "x": 1620,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "49f64864cfa5187a",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "Maintain Gauge",
+        "info": "",
+        "x": 1320,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "c92be8f8c795f1a7",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "Water Consumption",
+        "func": "var tankVol = parseFloat(flow.get('wtankVol')) || 80\nvar waterLoss = parseFloat(flow.get('wkwaterloss')) || 5\nvar tankTempProcess = parseFloat(flow.get('tankTemp')) || 0\n\nlet tankVolProcess = tankVol - waterLoss;\n\nif (tankTempProcess >= 80 && tankTempProcess <= 90){\n    flow.set('wtankVol', tankVolProcess);\n    flow.set('bottlesProduced', waterLoss);}\nelse if (tankTempProcess <80){\n    node.warn(\"Tank temperature warming to operational levels\");}\nelse if (tankTempProcess >90){\n    node.warn(\"Tank overheating, safety measures activated\");}\n\n\nmsg.value = Math.round(tankVolProcess)\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1070,
+        "y": 1020,
+        "wires": [
+            [
+                "7cec0f06345159a5",
+                "bafa21e5426b8347",
+                "152a020b9f78dfd0"
+            ]
+        ]
+    },
+    {
+        "id": "152a020b9f78dfd0",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "0.2",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 790,
+        "y": 1060,
+        "wires": [
+            [
+                "598f7b1de375eb7c"
+            ]
+        ]
+    },
+    {
+        "id": "36e19acec59d8055",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "Water Fill with Recycler ",
+        "func": "var tankVol = flow.get('wtankVol') || 80\nvar tankTemp = flow.get('tankTemp') || 0\nvar processWater = flow.get('wkwaterin') || 0\nvar recyclerVol = 40\nnode.warn(`Additional Water Injected: ${processWater}`)\n\nif (tankTemp >=80 && tankTemp <=90){\n    let tankVolProcess = tankVol + processWater;\n        if (tankVolProcess >110){\n            tankVolProcess = 80}\n        else if (tankVolProcess <30){\n            tankVolProcess + recyclerVol}\n    flow.set('wtankVol', tankVolProcess)}\n\n\nflow.set('waterDemandCalc', processWater)\n\nnode.warn(`Wkwaterin: ${processWater}`)\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 1020,
+        "wires": [
+            [
+                "c92be8f8c795f1a7",
+                "ba0e16adab78f0ed"
+            ]
+        ]
+    },
+    {
+        "id": "206994866be7f97d",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "mydb": "c783136d02b66193",
+        "name": "",
+        "arraymode": true,
+        "x": 840,
+        "y": 920,
+        "wires": [
+            [
+                "d6d2ea836f5a5410"
+            ]
+        ]
+    },
+    {
+        "id": "3551f6735c87fa7c",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "Set SQL for WATER",
+        "func": "let payloadout = `(select * from IUGRED_99.Brewctl where PROCESS_NAME = 'WATER');`\n\nmsg.payload = payloadout\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 920,
+        "wires": [
+            [
+                "206994866be7f97d"
+            ]
+        ]
+    },
+    {
+        "id": "3ba54177a67e0dfb",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "WATER STATION",
+        "info": "# WATER",
+        "x": 2130,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "d6d2ea836f5a5410",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "Dynamic Water Volume",
+        "func": "var tankVol = flow.get('wtankVol') || 80\nflow.set('casesProduced', 0);\n\n// Retrieve Water Requirement and Losses\nlet payload = msg.payload\nlet workwaterin = payload[0].PROCESS_INPUT;\nlet workwaterloss = payload[0].PROCESS_LOSSES;\n\nconst wkwaterin = parseInt(workwaterin) \nconst wkwaterloss = parseInt(workwaterloss) \n\nflow.set('wkwaterin', wkwaterin)\nflow.set('wkwaterloss', wkwaterloss)\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1050,
+        "y": 920,
+        "wires": [
+            [
+                "598f7b1de375eb7c"
+            ]
+        ]
+    },
+    {
+        "id": "be8f4373a6825513",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "mydb": "c783136d02b66193",
+        "name": "",
+        "arraymode": true,
+        "x": 1820,
+        "y": 1820,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7bd6f8a81b665724",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "F insert a ROW",
+        "func": "let payloadin = parseInt(msg.value)\nlet station = \"CASES\"\n\nlet payloadout = `INSERT INTO  IUGRED_99.brewtrans VALUES(current_date, current_time, '${station}', ${payloadin});`\n\nmsg.payload = payloadout\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1480,
+        "y": 1820,
+        "wires": [
+            [
+                "be8f4373a6825513",
+                "4f6e2f9852068983"
+            ]
+        ]
+    },
+    {
+        "id": "4f6e2f9852068983",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Report to table on UI",
+        "func": "\nlet limit = msg.limit || 10\n\n\nlet payloadout = `(select * from IUGRED_99.Brewtrans where process_name = 'CASES'\nORDER BY last_update DESC, registered_at DESC limit ${limit}) \nORDER BY last_update ASC, registered_at ASC;` \n \nmsg.payload = payloadout\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1580,
+        "y": 1900,
+        "wires": [
+            [
+                "e20c6e7325fb5eac"
+            ]
+        ]
+    },
+    {
+        "id": "32dba188c2c30d88",
+        "type": "ui_table",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "group": "3a71324c40ab6674",
+        "name": "Cases and Bottles out",
+        "order": 2,
+        "width": 8,
+        "height": 6,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 2120,
+        "y": 1900,
+        "wires": []
+    },
+    {
+        "id": "610acd7a4e05c987",
+        "type": "gate",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "closed",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 510,
+        "y": 1820,
+        "wires": [
+            [
+                "12c7ccaa63e6523b"
+            ]
+        ]
+    },
+    {
+        "id": "469c61ecfad2eee7",
+        "type": "inject",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Close Gate",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "close",
+        "payloadType": "str",
+        "x": 320,
+        "y": 1840,
+        "wires": [
+            [
+                "610acd7a4e05c987"
+            ]
+        ]
+    },
+    {
+        "id": "2d51970ffe6d08b2",
+        "type": "inject",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Open Gate",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "value",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "open",
+        "payloadType": "str",
+        "x": 320,
+        "y": 1780,
+        "wires": [
+            [
+                "610acd7a4e05c987"
+            ]
+        ]
+    },
+    {
+        "id": "e20c6e7325fb5eac",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "mydb": "c783136d02b66193",
+        "name": "RECORD PRODUCTION",
+        "arraymode": true,
+        "x": 1870,
+        "y": 1900,
+        "wires": [
+            [
+                "32dba188c2c30d88"
+            ]
+        ]
+    },
+    {
+        "id": "0c48ddaf509edebc",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Bottling & Casing",
+        "func": "var shipBottlesProduced = parseInt(flow.get('shipBottlesProduced')) || 0\nvar bottlesProduced = parseInt(flow.get('bottlesProduced'))\nvar crateload = parseInt(flow.get('crateload')) || 0\nvar tankTempProcess = parseFloat(flow.get('tankTemp')) || 0\nvar vancrateload = parseFloat(flow.get('vancrateload')) || 0\nvar casesStock = parseInt(flow.get('casesStock')) || 0; \n\nif (isNaN(casesStock) || casesStock < 0) {\n    casesStock = 0;}\n\n// Ale Production Range\nif (tankTempProcess >= 80 && tankTempProcess <= 90 && casesStock >0) {\n    shipBottlesProduced += bottlesProduced\n    flow.set('shipBottlesProduced', shipBottlesProduced)}\n\nvar trackshipBottlesProduced = parseInt(flow.get('shipBottlesProduced'))\nnode.warn(`Bottles Produced: ${trackshipBottlesProduced}`)\n\n// Casing Process\nlet casesProduced = Math.floor(shipBottlesProduced / 10);\n    if (casesProduced > 0) {\n        crateload += parseInt(casesProduced);\n        flow.set('crateload', parseInt(crateload));\n        vancrateload += casesProduced;\n        flow.set('vancrateload', vancrateload);\n        shipBottlesProduced -= casesProduced * 10;\n        flow.set('shipBottlesProduced', shipBottlesProduced);\n        let casesUsed = casesStock - casesProduced;\n        flow.set('casesStock', casesUsed);}\n\nvar crateload = parseInt(flow.get('crateload'))\nvar casesTotal = parseInt(flow.get('casesStock'))\nnode.warn(`Crateload: ${crateload}`)\nnode.warn(`Cases Stock: ${casesStock}`)\n\nmsg.value = parseInt(vancrateload)\nmsg.topic = parseInt(crateload)\nmsg.cases = parseInt(casesTotal)\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1010,
+        "y": 1820,
+        "wires": [
+            [
+                "645c34fe372d33ed",
+                "bde712312b7d6550",
+                "7bd6f8a81b665724",
+                "04040cf05d820a22",
+                "8bd0069c951df5c5",
+                "e5b6c4000680557d"
+            ]
+        ]
+    },
+    {
+        "id": "645c34fe372d33ed",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 740,
+        "y": 1860,
+        "wires": [
+            [
+                "610acd7a4e05c987"
+            ]
+        ]
+    },
+    {
+        "id": "12c7ccaa63e6523b",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Empty Cases In",
+        "func": "var casesCurrent = flow.get('casesStock');\nif (casesCurrent === undefined || casesCurrent === null) {\n    casesCurrent = 1000;}\n\nvar casesUsed = flow.get('casesUsed') || 0\nvar casesRetrieved = flow.get('casesRetrieved') || 0\n\nlet casesStock = casesCurrent - casesUsed + casesRetrieved\nflow.set('casesStock', casesStock)\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 1820,
+        "wires": [
+            [
+                "0c48ddaf509edebc"
+            ]
+        ]
+    },
+    {
+        "id": "431bf0bf25e98cb3",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "mydb": "c783136d02b66193",
+        "name": "",
+        "arraymode": true,
+        "x": 780,
+        "y": 1700,
+        "wires": [
+            [
+                "f7be45b2fac103cb"
+            ]
+        ]
+    },
+    {
+        "id": "1b977cd846701344",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "CASES Station",
+        "info": "",
+        "x": 2140,
+        "y": 1700,
+        "wires": []
+    },
+    {
+        "id": "f7be45b2fac103cb",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Set Start values for Case production",
+        "func": "let payload = msg.payload\nlet workcasesin = payload[0].PROCESS_INPUT;\nlet workcasesloss = payload[0].PROCESS_LOSSES;\n\nconst wkcasesin = parseInt(workcasesin) \nconst wkcasesloss = parseInt(workcasesloss) \n\nflow.set('wkcasein', wkcasesin)\nflow.set('wkasesloss', wkcasesloss)\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 1700,
+        "wires": [
+            [
+                "610acd7a4e05c987"
+            ]
+        ]
+    },
+    {
+        "id": "c67527a57c35a00f",
+        "type": "ui_led",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "order": 1,
+        "group": "b9dd467d45ef6923",
+        "width": 0,
+        "height": 0,
+        "label": "Van 1 - The Royal Oak, Eccleshall",
+        "labelPlacement": "right",
+        "labelAlignment": "center",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#ffa500",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "square",
+        "showGlow": true,
+        "name": "Van 1 Fully Loaded and Dispatched",
+        "x": 1540,
+        "y": 2100,
+        "wires": []
+    },
+    {
+        "id": "a7962671120c4417",
+        "type": "json",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "",
+        "property": "payload",
+        "action": "obj",
+        "pretty": false,
+        "x": 1270,
+        "y": 2340,
+        "wires": [
+            [
+                "6ed1d1257cd35ffd"
+            ]
+        ]
+    },
+    {
+        "id": "1f898c725fa0942e",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "mydb": "c783136d02b66193",
+        "name": "",
+        "arraymode": true,
+        "x": 840,
+        "y": 1340,
+        "wires": [
+            [
+                "2c43e8341c6a9206"
+            ]
+        ]
+    },
+    {
+        "id": "7f82a992bebea2b9",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Set SQL for BOIL",
+        "func": "let payloadout = `(select * from IUGRED_99.Brewctl where PROCESS_NAME = 'BOIL');`\n\nmsg.payload = payloadout\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 1340,
+        "wires": [
+            [
+                "1f898c725fa0942e"
+            ]
+        ]
+    },
+    {
+        "id": "2c43e8341c6a9206",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Dynamic Therms Degree",
+        "func": "// Retrieve Therms Requirement and Losses\nlet payload = msg.payload\nlet workboilin = payload[0].PROCESS_INPUT;\nlet workboilloss = payload[0].PROCESS_LOSSES;\n\nconst wkboilin = parseInt(workboilin)\nconst wkboilloss = parseInt(workboilloss)\n\nglobal.set('wkboilin', wkboilin);\nflow.set('wkboilloss', wkboilloss)\n\nnode.warn(`WkB: ${wkboilin}`);\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1070,
+        "y": 1340,
+        "wires": [
+            [
+                "5031e8ab34edc16e",
+                "f396f3f20ebceb12"
+            ]
+        ]
+    },
+    {
+        "id": "6cfcc87497a7fab6",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "BOIL Starting Values - From table as set by production qty",
+        "info": "",
+        "x": 910,
+        "y": 1300,
+        "wires": []
+    },
+    {
+        "id": "d323c5c2a27791b9",
+        "type": "ui_form",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "",
+        "label": "PRODUCTION",
+        "group": "01b5bec2534e4f4a",
+        "order": 1,
+        "width": 8,
+        "height": 1,
+        "options": [
+            {
+                "label": "Case Production per sec",
+                "value": "cases",
+                "type": "number",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "cases": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "payload",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 360,
+        "y": 200,
+        "wires": [
+            [
+                "4044dbe9b6d71dfe"
+            ]
+        ]
+    },
+    {
+        "id": "b12bd13258d67f39",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "mydb": "c783136d02b66193",
+        "name": "PROCESS_LOSSES: CASES",
+        "arraymode": true,
+        "x": 1090,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4044dbe9b6d71dfe",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "Set Case Demand",
+        "func": "let cases = \" \"\ncases = msg.payload.cases\n\nconst caseout = parseInt(cases) \nmsg.payload = `update IUGRED_99.brewctl set PROCESS_LOSSES = ${caseout} where PROCESS_NAME = 'CASES' `\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 200,
+        "wires": [
+            [
+                "b12bd13258d67f39",
+                "6531f6701f0154dc"
+            ]
+        ]
+    },
+    {
+        "id": "e9bdcb61161af200",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "SET NUMBER OF CASES PRODUCED PER SECOND",
+        "info": "",
+        "x": 420,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "c90ca043c5484f1b",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "mydb": "c783136d02b66193",
+        "name": "PROCESS_INPUT: WATER",
+        "arraymode": true,
+        "x": 1080,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "abaac4dbc1352832",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "WATER PER CASE",
+        "func": "const caseDemand = msg.payload[0].PROCESS_LOSSES\nconst waterPerCase = 10\nconst waterDemand = waterPerCase * parseInt(caseDemand)\nflow.set('waterDemand', waterDemand);\n\nconst payloadout = `update IUGRED_99.brewctl set PROCESS_INPUT = ${waterDemand} where PROCESS_NAME = 'WATER' `\nmsg.payload = payloadout\n\nnode.warn(`Water Demand Calculated: ${waterDemand}`)\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 340,
+        "wires": [
+            [
+                "c90ca043c5484f1b",
+                "6558e644f619e3ae"
+            ]
+        ]
+    },
+    {
+        "id": "853dffd5ac38280a",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "mydb": "c783136d02b66193",
+        "name": "PROCESS_INPUT: BOIL",
+        "arraymode": true,
+        "x": 1070,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "148eca1313d95745",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "THERMS REQUIRED",
+        "func": "const waterRequired = msg.payload[0].PROCESS_INPUT\nconst thermsPerCase = 1\nconst thermDemand = thermsPerCase * waterRequired\nflow.set('thermDemand', thermDemand);\n\nconst payloadout = `update IUGRED_99.brewctl set PROCESS_INPUT = ${thermDemand} where PROCESS_NAME = 'BOIL' `\nmsg.payload = payloadout\n\nnode.warn(`Therms Requirement Calculated: ${thermDemand}`)\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 440,
+        "wires": [
+            [
+                "853dffd5ac38280a",
+                "2e3dcdd9c29197fc"
+            ]
+        ]
+    },
+    {
+        "id": "5f6a864bf9b21d67",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "PRODUCTION CONTROL",
+        "info": "",
+        "x": 1150,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "e27c2386e24c0680",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "name": "LINK HAS BEEN PUT IN TO STOP PRODUCTION IF BOIL IS NOT 80-90DEG",
+        "info": "",
+        "x": 1970,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "42cf7e4f999becd6",
+        "type": "link in",
+        "z": "4ac6ef51dde99703",
+        "name": "Open Gate",
+        "links": [
+            "7d438d0c4a219dc7"
+        ],
+        "x": 45,
+        "y": 1440,
+        "wires": [
+            [
+                "610acd7a4e05c987",
+                "598f7b1de375eb7c",
+                "5031e8ab34edc16e"
+            ]
+        ]
+    },
+    {
+        "id": "7d438d0c4a219dc7",
+        "type": "link out",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "Open Gate",
+        "mode": "link",
+        "links": [
+            "62053168264fc9a8",
+            "42cf7e4f999becd6",
+            "51ba2da539668c88",
+            "deb2525f7a347d2b"
+        ],
+        "x": 1235,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "4de49e7c9b2a879b",
+        "type": "inject",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "Toggle Gates",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "toggle",
+        "payloadType": "str",
+        "x": 870,
+        "y": 720,
+        "wires": [
+            [
+                "7d438d0c4a219dc7"
+            ]
+        ]
+    },
+    {
+        "id": "430f2f20e2d47fc1",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "WATER CALCULATION",
+        "info": "",
+        "x": 320,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "10135a999e966428",
+        "type": "link out",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "Start",
+        "mode": "link",
+        "links": [
+            "34380a0db8905749",
+            "bd5759c9f83743b3",
+            "322191b362cd3977",
+            "aa068ef746838054",
+            "5605352a6fb9c3f2"
+        ],
+        "x": 1235,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "81da8ec47b3aeee9",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "THERMS CALCULATION",
+        "info": "",
+        "x": 330,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "ba91fd22bbcd5393",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "Manual Overrides",
+        "info": "",
+        "x": 290,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "7db3c439b75358a3",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Manual Overrides",
+        "info": "",
+        "x": 290,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "766e26c3c7c2c65f",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1100,
+        "y": 680,
+        "wires": [
+            [
+                "10135a999e966428"
+            ]
+        ]
+    },
+    {
+        "id": "04040cf05d820a22",
+        "type": "ui_artlessgauge",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "group": "3a71324c40ab6674",
+        "order": 1,
+        "width": 8,
+        "height": 8,
+        "name": "Daily Production Goal",
+        "icon": "",
+        "label": "Daily Production Goal",
+        "unit": "Cases of Delicious Ale",
+        "layout": "radial",
+        "decimals": 0,
+        "differential": false,
+        "minmax": true,
+        "colorTrack": "#555555",
+        "style": "",
+        "colorFromTheme": true,
+        "property": "value",
+        "secondary": "secondary",
+        "inline": false,
+        "animate": true,
+        "sectors": [
+            {
+                "val": 0,
+                "col": "#ff9900",
+                "t": "min",
+                "dot": 5
+            },
+            {
+                "val": 1000,
+                "col": "#ff9900",
+                "t": "max",
+                "dot": 5
+            }
+        ],
+        "lineWidth": "7",
+        "bgcolorFromTheme": true,
+        "diffCenter": "250",
+        "x": 1280,
+        "y": 1900,
+        "wires": []
+    },
+    {
+        "id": "bde712312b7d6550",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Loading of Fleet",
+        "func": "msg.payload = msg.topic\nvar total = parseFloat(flow.get('vancrateload')) || 0;\nvar gauge1 = total >= 200 ? 200 : total;     \nvar gauge2 = total > 200 ? Math.min(total - 200, 200) : 0;\nvar gauge3 = total > 400 ? Math.min(total - 400, 200) : 0;\nvar gauge4 = total > 600 ? Math.min(total - 600, 200) : 0;\nvar gauge5 = total > 800 ? Math.min(total - 800, 200) : 0;\n\n// Van Load Gauges\nmsg.gauge1 = gauge1;\nmsg.gauge2 = gauge2;\nmsg.gauge3 = gauge3;\nmsg.gauge4 = gauge4;\nmsg.gauge5 = gauge5;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 2000,
+        "wires": [
+            [
+                "83f419733c7b2b21",
+                "f430d17dec6a8e85",
+                "dc91546af6ee2c8c",
+                "9fe89bf27eee6393",
+                "a88c3e36a90bb379",
+                "a17adbc960a8c4c7",
+                "a3dcb8dd7c6dee25",
+                "1cca3b6e49ce9963",
+                "6bc791e40a53fc4d",
+                "61449eabbbf29bef",
+                "b018c317561287f8"
+            ]
+        ]
+    },
+    {
+        "id": "09f62794fb174918",
+        "type": "ui_gauge",
+        "z": "4ac6ef51dde99703",
+        "g": "3945a690f7bdc08a",
+        "name": " INGREDIENT COUNT",
+        "group": "01b5bec2534e4f4a",
+        "order": 4,
+        "width": 8,
+        "height": 7,
+        "gtype": "compass",
+        "title": "INGREDIENT COUNT",
+        "label": "BAILS",
+        "format": "{{value | number}}",
+        "min": 0,
+        "max": "1000",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "45",
+        "seg2": "85",
+        "className": "",
+        "x": 2060,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "5c57b978773c753b",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "3945a690f7bdc08a",
+        "name": "Maintain Hop Count",
+        "func": "\nvar hops = flow.get('hopcount') || 1;\n\n\n\n// let hoptot = parseInt(hopcount, 10)\n\nlet hopadd = hops +1\n\n\nflow.set('hopcount', hopadd)\n\nmsg.value = hopadd\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1740,
+        "y": 360,
+        "wires": [
+            [
+                "09f62794fb174918",
+                "0d5b6443ce25b6df"
+            ]
+        ]
+    },
+    {
+        "id": "0d5b6443ce25b6df",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "3945a690f7bdc08a",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1480,
+        "y": 360,
+        "wires": [
+            [
+                "9829cd2ebe6a8686"
+            ]
+        ]
+    },
+    {
+        "id": "c39fd1c1f5ed98ed",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "3945a690f7bdc08a",
+        "name": "Set Hopper Value - 1",
+        "func": "\nmsg.value = 1\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1760,
+        "y": 200,
+        "wires": [
+            [
+                "af9832731bef2cfe",
+                "416e9c031276c18b"
+            ]
+        ]
+    },
+    {
+        "id": "af9832731bef2cfe",
+        "type": "ui_gauge",
+        "z": "4ac6ef51dde99703",
+        "g": "3945a690f7bdc08a",
+        "name": "HOPPER INJECT",
+        "group": "01b5bec2534e4f4a",
+        "order": 3,
+        "width": 8,
+        "height": 5,
+        "gtype": "gage",
+        "title": "HOPPER INJECT",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1",
+        "colors": [
+            "#ffbea8",
+            "#ffbea8",
+            "#d53939"
+        ],
+        "seg1": "0",
+        "seg2": "1",
+        "diff": false,
+        "className": "",
+        "x": 2070,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "416e9c031276c18b",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "3945a690f7bdc08a",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1800,
+        "y": 260,
+        "wires": [
+            [
+                "9723bebd1cba6ab0"
+            ]
+        ]
+    },
+    {
+        "id": "9723bebd1cba6ab0",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "3945a690f7bdc08a",
+        "name": "Set Hopper value - 0",
+        "func": "\nmsg.value = 0\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1980,
+        "y": 260,
+        "wires": [
+            [
+                "af9832731bef2cfe"
+            ]
+        ]
+    },
+    {
+        "id": "53290cf7fe0605d7",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "3945a690f7bdc08a",
+        "name": "Hops in - No coding  >>>>>>>>>",
+        "info": "",
+        "x": 2090,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "34380a0db8905749",
+        "type": "link in",
+        "z": "4ac6ef51dde99703",
+        "g": "3945a690f7bdc08a",
+        "name": "Start",
+        "links": [
+            "10135a999e966428"
+        ],
+        "x": 1375,
+        "y": 200,
+        "wires": [
+            [
+                "9829cd2ebe6a8686"
+            ]
+        ]
+    },
+    {
+        "id": "9829cd2ebe6a8686",
+        "type": "gate",
+        "z": "4ac6ef51dde99703",
+        "g": "3945a690f7bdc08a",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "closed",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 1530,
+        "y": 200,
+        "wires": [
+            [
+                "c39fd1c1f5ed98ed",
+                "5c57b978773c753b"
+            ]
+        ]
+    },
+    {
+        "id": "51ba2da539668c88",
+        "type": "link in",
+        "z": "4ac6ef51dde99703",
+        "g": "3945a690f7bdc08a",
+        "name": "link in 1",
+        "links": [
+            "7d438d0c4a219dc7"
+        ],
+        "x": 1375,
+        "y": 260,
+        "wires": [
+            [
+                "9829cd2ebe6a8686"
+            ]
+        ]
+    },
+    {
+        "id": "7949fc5561cfccdf",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "Swirl and Mash - No coding  >>>>>>>>>",
+        "info": "",
+        "x": 2070,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "4e2210c45c515c25",
+        "type": "ui_gauge",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "Swirl",
+        "group": "01b5bec2534e4f4a",
+        "order": 5,
+        "width": 8,
+        "height": 7,
+        "gtype": "donut",
+        "title": "Swirl",
+        "label": "Rotations",
+        "format": "{{value | number}}",
+        "min": 0,
+        "max": "1000",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "45",
+        "seg2": "85",
+        "diff": false,
+        "className": "",
+        "x": 2090,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "4304804bb31e042c",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "Set SWIRL Gauge value - 1000",
+        "func": "\nmsg.value = 1000\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1750,
+        "y": 640,
+        "wires": [
+            [
+                "4e2210c45c515c25",
+                "f70c2f062b9655b7",
+                "8f8e102b755201da"
+            ]
+        ]
+    },
+    {
+        "id": "f70c2f062b9655b7",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1520,
+        "y": 720,
+        "wires": [
+            [
+                "f22b3c8b5940cd3b"
+            ]
+        ]
+    },
+    {
+        "id": "025a74fb0851934b",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "Set MASH Gauge Value - 1",
+        "func": "\nmsg.value = 1\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1740,
+        "y": 600,
+        "wires": [
+            [
+                "fb60a24e22f87643",
+                "0b33ca5e31ce4487"
+            ]
+        ]
+    },
+    {
+        "id": "fb60a24e22f87643",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1800,
+        "y": 560,
+        "wires": [
+            [
+                "ae94cb048ebb7896"
+            ]
+        ]
+    },
+    {
+        "id": "ae94cb048ebb7896",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "Set Mash Gauge Value - 0",
+        "func": "\nmsg.value = 0\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2000,
+        "y": 560,
+        "wires": [
+            [
+                "0b33ca5e31ce4487"
+            ]
+        ]
+    },
+    {
+        "id": "bd5759c9f83743b3",
+        "type": "link in",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "Start",
+        "links": [
+            "10135a999e966428"
+        ],
+        "x": 1375,
+        "y": 560,
+        "wires": [
+            [
+                "66bbbafe31805eae"
+            ]
+        ]
+    },
+    {
+        "id": "f22b3c8b5940cd3b",
+        "type": "gate",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "closed",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 1510,
+        "y": 640,
+        "wires": [
+            [
+                "025a74fb0851934b",
+                "4304804bb31e042c"
+            ]
+        ]
+    },
+    {
+        "id": "62053168264fc9a8",
+        "type": "link in",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "link in 2",
+        "links": [
+            "7d438d0c4a219dc7"
+        ],
+        "x": 1375,
+        "y": 640,
+        "wires": [
+            [
+                "f22b3c8b5940cd3b"
+            ]
+        ]
+    },
+    {
+        "id": "8f8e102b755201da",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1800,
+        "y": 680,
+        "wires": [
+            [
+                "5f6b6b2493149c10"
+            ]
+        ]
+    },
+    {
+        "id": "5f6b6b2493149c10",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "Set Swirl gauge value - 0",
+        "func": "\nmsg.value = 0\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2010,
+        "y": 680,
+        "wires": [
+            [
+                "4e2210c45c515c25"
+            ]
+        ]
+    },
+    {
+        "id": "66bbbafe31805eae",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1500,
+        "y": 560,
+        "wires": [
+            [
+                "f22b3c8b5940cd3b"
+            ]
+        ]
+    },
+    {
+        "id": "6ed1d1257cd35ffd",
+        "type": "exec",
+        "z": "4ac6ef51dde99703",
+        "g": "99982cf5224698e8",
+        "command": "env",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 2045,
+        "y": 2800,
+        "wires": [
+            [
+                "aa6486475bc66e64",
+                "c01ec7ac6137ccd0"
+            ],
+            [
+                "aa6486475bc66e64"
+            ],
+            [
+                "aa6486475bc66e64"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "d9c047a1fd80a9fb",
+        "type": "mqtt out",
+        "z": "4ac6ef51dde99703",
+        "g": "99982cf5224698e8",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "de887429d516dace",
+        "x": 2275,
+        "y": 2780,
+        "wires": [],
+        "l": false
+    },
+    {
+        "id": "aa6486475bc66e64",
+        "type": "debug",
+        "z": "4ac6ef51dde99703",
+        "g": "99982cf5224698e8",
+        "name": "debug 237",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2185,
+        "y": 2820,
+        "wires": [],
+        "l": false
+    },
+    {
+        "id": "c01ec7ac6137ccd0",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "99982cf5224698e8",
+        "name": "function 53",
+        "func": "let user  = ' '\nlet start = msg.payload.search(\"USER\") + 5;\nlet stop = msg.payload.search(\"SHLVL\") - 1;\n\n\nlet currentDate = new Date();\nlet cDay = currentDate.getDate()\nlet cMonth = currentDate.getMonth() + 1\nlet cYear = currentDate.getFullYear()\n\nlet stdate = cYear + \"-\" + cMonth + \"-\" + cDay;\n\nlet sttime = currentDate.getHours() + \":\" + currentDate.getMinutes() + \":\" + currentDate.getSeconds();\n\nvar crates = flow.get('cvaluexx')\nvar temp = flow.get('bvaluexx')\n\nlet diff = stop - start\n\nuser = msg.payload.substr(start, diff )\n\nmsg.topic = user\nmsg.payload = `{\"Student_Number\" : \"${user}\", \"Brew_Temp\": ${temp}, \"Cases_Out\": ${crates}, \"OPDATE\": \"${stdate}\", \"OPTIME\": \"${sttime}\"}`\nconsole.log('payload', msg.payload) \n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2135,
+        "y": 2780,
+        "wires": [
+            [
+                "cc9097ab7b567953"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "cc9097ab7b567953",
+        "type": "json",
+        "z": "4ac6ef51dde99703",
+        "g": "99982cf5224698e8",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 2205,
+        "y": 2780,
+        "wires": [
+            [
+                "d9c047a1fd80a9fb"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "2495a26ecf7f470d",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "99982cf5224698e8",
+        "name": "Support:  PEASE DO NOT ALTER THIS CODE",
+        "info": "",
+        "x": 2190,
+        "y": 2720,
+        "wires": []
+    },
+    {
+        "id": "6531f6701f0154dc",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "Retrieve Case Demand",
+        "func": "let payloadout = `(select * from IUGRED_99.Brewctl where PROCESS_NAME = 'CASES');`\n\nmsg.payload = payloadout\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 340,
+        "wires": [
+            [
+                "3933f408d085feaa",
+                "38d780775a3b8e97"
+            ]
+        ]
+    },
+    {
+        "id": "3933f408d085feaa",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "mydb": "c783136d02b66193",
+        "name": "",
+        "arraymode": true,
+        "x": 600,
+        "y": 340,
+        "wires": [
+            [
+                "abaac4dbc1352832"
+            ]
+        ]
+    },
+    {
+        "id": "6558e644f619e3ae",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "Retrieve Water Demand",
+        "func": "let payloadout = `(select * from IUGRED_99.Brewctl where PROCESS_NAME = 'WATER');`\nmsg.payload = payloadout\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 440,
+        "wires": [
+            [
+                "c892ec0d734d950f"
+            ]
+        ]
+    },
+    {
+        "id": "c892ec0d734d950f",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "mydb": "c783136d02b66193",
+        "name": "",
+        "arraymode": true,
+        "x": 600,
+        "y": 440,
+        "wires": [
+            [
+                "148eca1313d95745"
+            ]
+        ]
+    },
+    {
+        "id": "322191b362cd3977",
+        "type": "link in",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "link in 3",
+        "links": [
+            "10135a999e966428"
+        ],
+        "x": 245,
+        "y": 340,
+        "wires": [
+            [
+                "6531f6701f0154dc"
+            ]
+        ]
+    },
+    {
+        "id": "aa068ef746838054",
+        "type": "link in",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "link in 4",
+        "links": [
+            "10135a999e966428"
+        ],
+        "x": 245,
+        "y": 440,
+        "wires": [
+            [
+                "6558e644f619e3ae"
+            ]
+        ]
+    },
+    {
+        "id": "5605352a6fb9c3f2",
+        "type": "link in",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "link in 5",
+        "links": [
+            "10135a999e966428"
+        ],
+        "x": 245,
+        "y": 540,
+        "wires": [
+            [
+                "2e3dcdd9c29197fc"
+            ]
+        ]
+    },
+    {
+        "id": "64e075b968f19815",
+        "type": "DB2 for i",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "mydb": "c783136d02b66193",
+        "name": "PROCESS_LOSSES: BOIL",
+        "arraymode": true,
+        "x": 660,
+        "y": 580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2e72b7a127f11963",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "name": "Input cases factored into water and boil calculations, losses calculated based upon water and therms required for n~cases/sec",
+        "info": "",
+        "x": 1240,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "38d780775a3b8e97",
+        "type": "link out",
+        "z": "4ac6ef51dde99703",
+        "g": "1000a9b90f04f5aa",
+        "name": "link out 1",
+        "mode": "link",
+        "links": [
+            "d34ab91b201f8da4",
+            "1d12b82e51f5aa2e"
+        ],
+        "x": 555,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "633d1bd8a93dd2dd",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Workcases SQL",
+        "func": "let payload = msg.payload\nlet station = payload\nlet workcases = 0\n\n\n    workcases = station[0].PROCESS_LOSSES\n    \n    \n\nconst wkcases = parseInt(workcases)\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1700,
+        "wires": [
+            [
+                "431bf0bf25e98cb3"
+            ]
+        ]
+    },
+    {
+        "id": "1d12b82e51f5aa2e",
+        "type": "link in",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "link in 6",
+        "links": [
+            "38d780775a3b8e97"
+        ],
+        "x": 475,
+        "y": 1700,
+        "wires": [
+            [
+                "633d1bd8a93dd2dd"
+            ]
+        ]
+    },
+    {
+        "id": "83f419733c7b2b21",
+        "type": "ui_artlessgauge",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "group": "b9dd467d45ef6923",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "Van 1 Loaded",
+        "icon": "",
+        "label": "",
+        "unit": "Cases Loaded",
+        "layout": "linear",
+        "decimals": 0,
+        "differential": false,
+        "minmax": true,
+        "colorTrack": "#555555",
+        "style": "",
+        "colorFromTheme": true,
+        "property": "gauge1",
+        "secondary": "secondary",
+        "inline": false,
+        "animate": true,
+        "sectors": [
+            {
+                "val": 0,
+                "col": "#ff9900",
+                "t": "min",
+                "dot": 5
+            },
+            {
+                "val": 200,
+                "col": "#ff9900",
+                "t": "max",
+                "dot": 5
+            }
+        ],
+        "lineWidth": 3,
+        "bgcolorFromTheme": true,
+        "diffCenter": "",
+        "x": 1080,
+        "y": 2100,
+        "wires": []
+    },
+    {
+        "id": "0b33ca5e31ce4487",
+        "type": "ui_gauge",
+        "z": "4ac6ef51dde99703",
+        "g": "025e89a709ed763f",
+        "name": "Mash",
+        "group": "01b5bec2534e4f4a",
+        "order": 6,
+        "width": 8,
+        "height": 6,
+        "gtype": "gage",
+        "title": "Mash",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#d53939"
+        ],
+        "seg1": "0",
+        "seg2": "1",
+        "diff": false,
+        "className": "",
+        "x": 2110,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "f430d17dec6a8e85",
+        "type": "ui_artlessgauge",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "group": "b9dd467d45ef6923",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "Van 2 Loaded",
+        "icon": "",
+        "label": "",
+        "unit": "Cases Loaded",
+        "layout": "linear",
+        "decimals": 0,
+        "differential": false,
+        "minmax": true,
+        "colorTrack": "#555555",
+        "style": "",
+        "colorFromTheme": true,
+        "property": "gauge2",
+        "secondary": "secondary",
+        "inline": false,
+        "animate": true,
+        "sectors": [
+            {
+                "val": 0,
+                "col": "#ff9900",
+                "t": "min",
+                "dot": 5
+            },
+            {
+                "val": 200,
+                "col": "#ff9900",
+                "t": "max",
+                "dot": 5
+            }
+        ],
+        "lineWidth": 3,
+        "bgcolorFromTheme": true,
+        "diffCenter": "",
+        "x": 1080,
+        "y": 2140,
+        "wires": []
+    },
+    {
+        "id": "dc91546af6ee2c8c",
+        "type": "ui_artlessgauge",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "group": "b9dd467d45ef6923",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "name": "Van 3 Loaded",
+        "icon": "",
+        "label": "",
+        "unit": "Cases Loaded",
+        "layout": "linear",
+        "decimals": 0,
+        "differential": false,
+        "minmax": true,
+        "colorTrack": "#555555",
+        "style": "",
+        "colorFromTheme": true,
+        "property": "gauge3",
+        "secondary": "secondary",
+        "inline": false,
+        "animate": true,
+        "sectors": [
+            {
+                "val": 0,
+                "col": "#ff9900",
+                "t": "min",
+                "dot": 5
+            },
+            {
+                "val": 200,
+                "col": "#ff9900",
+                "t": "max",
+                "dot": 5
+            }
+        ],
+        "lineWidth": 3,
+        "bgcolorFromTheme": true,
+        "diffCenter": "",
+        "x": 1080,
+        "y": 2180,
+        "wires": []
+    },
+    {
+        "id": "9fe89bf27eee6393",
+        "type": "ui_artlessgauge",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "group": "b9dd467d45ef6923",
+        "order": 8,
+        "width": 0,
+        "height": 0,
+        "name": "Van 4 Loaded",
+        "icon": "",
+        "label": "",
+        "unit": "Cases Loaded",
+        "layout": "linear",
+        "decimals": 0,
+        "differential": false,
+        "minmax": true,
+        "colorTrack": "#555555",
+        "style": "",
+        "colorFromTheme": true,
+        "property": "gauge4",
+        "secondary": "secondary",
+        "inline": false,
+        "animate": true,
+        "sectors": [
+            {
+                "val": 0,
+                "col": "#ff9900",
+                "t": "min",
+                "dot": 5
+            },
+            {
+                "val": 200,
+                "col": "#ff9900",
+                "t": "max",
+                "dot": 5
+            }
+        ],
+        "lineWidth": 3,
+        "bgcolorFromTheme": true,
+        "diffCenter": "",
+        "x": 1080,
+        "y": 2220,
+        "wires": []
+    },
+    {
+        "id": "a88c3e36a90bb379",
+        "type": "ui_artlessgauge",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "group": "b9dd467d45ef6923",
+        "order": 10,
+        "width": 0,
+        "height": 0,
+        "name": "Van 5 Loaded",
+        "icon": "",
+        "label": "",
+        "unit": "Cases Loaded",
+        "layout": "linear",
+        "decimals": 0,
+        "differential": false,
+        "minmax": true,
+        "colorTrack": "#555555",
+        "style": "",
+        "colorFromTheme": true,
+        "property": "gauge5",
+        "secondary": "secondary",
+        "inline": false,
+        "animate": true,
+        "sectors": [
+            {
+                "val": 0,
+                "col": "#ff9900",
+                "t": "min",
+                "dot": 5
+            },
+            {
+                "val": 200,
+                "col": "#ff9900",
+                "t": "max",
+                "dot": 5
+            }
+        ],
+        "lineWidth": 3,
+        "bgcolorFromTheme": true,
+        "diffCenter": "",
+        "x": 1080,
+        "y": 2260,
+        "wires": []
+    },
+    {
+        "id": "a17adbc960a8c4c7",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Indicator 1 Boolean",
+        "func": "var payloadin = msg.gauge1\nflow.set('requestUntriggered', true)\n\nmsg.payload = false;\nif (payloadin == 200) {\n    msg.payload = true;\n    return [msg, null];}\nelse {\n    return [null, msg];}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1270,
+        "y": 2100,
+        "wires": [
+            [
+                "c67527a57c35a00f",
+                "cf7d405bbc45de82"
+            ]
+        ]
+    },
+    {
+        "id": "a3dcb8dd7c6dee25",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Indicator 2 Boolean",
+        "func": "var payloadin = msg.gauge2\n\nmsg.payload = false;\nif (payloadin == 200) {\n    msg.payload = true;\n    return [msg, null];}\nelse {\n    return [null, msg];}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1270,
+        "y": 2140,
+        "wires": [
+            [
+                "1989c59d89b5f61f"
+            ]
+        ]
+    },
+    {
+        "id": "1989c59d89b5f61f",
+        "type": "ui_led",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "order": 3,
+        "group": "b9dd467d45ef6923",
+        "width": 0,
+        "height": 0,
+        "label": "Van 2 Fully Loaded and Dispatched",
+        "labelPlacement": "right",
+        "labelAlignment": "center",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#ffa500",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "square",
+        "showGlow": true,
+        "name": "Van 2 Fully Loaded and Dispatched",
+        "x": 1540,
+        "y": 2140,
+        "wires": []
+    },
+    {
+        "id": "6bc791e40a53fc4d",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Indicator 3 Boolean",
+        "func": "var payloadin = msg.gauge3\n\nmsg.payload = false;\nif (payloadin == 200) {\n    msg.payload = true;\n    return [msg, null];}\nelse {\n    return [null, msg];}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1270,
+        "y": 2180,
+        "wires": [
+            [
+                "05b7d884b4b3feab"
+            ]
+        ]
+    },
+    {
+        "id": "61449eabbbf29bef",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Indicator 4 Boolean",
+        "func": "var payloadin = msg.gauge4\n\nmsg.payload = false;\nif (payloadin == 200) {\n    msg.payload = true;\n    return [msg, null];}\nelse {\n    return [null, msg];}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1270,
+        "y": 2220,
+        "wires": [
+            [
+                "b3166d11bf2a6403"
+            ]
+        ]
+    },
+    {
+        "id": "b018c317561287f8",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Indicator 5 Boolean",
+        "func": "var payloadin = msg.gauge5\n\nmsg.payload = false;\nif (payloadin == 200) {\n    msg.payload = true;\n    return [msg, null];}\nelse {\n    return [null, msg];}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1270,
+        "y": 2260,
+        "wires": [
+            [
+                "b41362661536f65f"
+            ]
+        ]
+    },
+    {
+        "id": "05b7d884b4b3feab",
+        "type": "ui_led",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "order": 5,
+        "group": "b9dd467d45ef6923",
+        "width": 0,
+        "height": 0,
+        "label": "Van 3 Fully Loaded and Dispatched",
+        "labelPlacement": "right",
+        "labelAlignment": "center",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#ffa500",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "square",
+        "showGlow": true,
+        "name": "Van 3 Fully Loaded and Dispatched",
+        "x": 1540,
+        "y": 2180,
+        "wires": []
+    },
+    {
+        "id": "b3166d11bf2a6403",
+        "type": "ui_led",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "order": 7,
+        "group": "b9dd467d45ef6923",
+        "width": 0,
+        "height": 0,
+        "label": "Van 4 Fully Loaded and Dispatched",
+        "labelPlacement": "right",
+        "labelAlignment": "center",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#ffa500",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "square",
+        "showGlow": true,
+        "name": "Van 4 Fully Loaded and Dispatched",
+        "x": 1540,
+        "y": 2220,
+        "wires": []
+    },
+    {
+        "id": "b41362661536f65f",
+        "type": "ui_led",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "order": 9,
+        "group": "b9dd467d45ef6923",
+        "width": 0,
+        "height": 0,
+        "label": "Van 5 Fully Loaded and Dispatched",
+        "labelPlacement": "right",
+        "labelAlignment": "center",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#ffa500",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "square",
+        "showGlow": true,
+        "name": "Van 5 Fully Loaded and Dispatched",
+        "x": 1540,
+        "y": 2260,
+        "wires": []
+    },
+    {
+        "id": "1cca3b6e49ce9963",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Daily Indicator",
+        "func": "var objective = flow.get('vancrateload')\n\nmsg.payload = false;\nif (objective == 1000) {\n    msg.payload = true;\n    fllow.set('')\n    return [msg, null];}\nelse {\n    return [null, msg];}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 1,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1080,
+        "y": 2300,
+        "wires": [
+            [
+                "a7962671120c4417",
+                "191e70096eaf31b4"
+            ]
+        ]
+    },
+    {
+        "id": "2880d69703f42a2d",
+        "type": "ui_worldmap",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "group": "b9dd467d45ef6923",
+        "order": 11,
+        "width": "8",
+        "height": "14",
+        "name": "",
+        "lat": "52.73861",
+        "lon": "-2.22586",
+        "zoom": "10.5",
+        "layer": "OSMG",
+        "cluster": "",
+        "maxage": "",
+        "usermenu": "hide",
+        "layers": "hide",
+        "panit": "false",
+        "panlock": "false",
+        "zoomlock": "false",
+        "hiderightclick": "true",
+        "coords": "none",
+        "showgrid": "false",
+        "showruler": "false",
+        "allowFileDrop": "false",
+        "path": "/worldmap",
+        "overlist": "DR,CO,RA,DN,HM",
+        "maplist": "OSMG,OSMC,EsriC,EsriS,EsriT,EsriDG,UKOS",
+        "mapname": "",
+        "mapurl": "",
+        "mapopt": "",
+        "mapwms": false,
+        "x": 2120,
+        "y": 2040,
+        "wires": []
+    },
+    {
+        "id": "01012191aa6a8406",
+        "type": "http request",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://api.openrouteservice.org/v2/directions/driving-car?api_key=5b3ce3597851110001cf624869cd42e4b20046518687fb0a7f840d14&start=-2.12073,52.58961&end=-2.25248,52.85934",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1790,
+        "y": 2040,
+        "wires": [
+            [
+                "a579f091cf3f85d4"
+            ]
+        ]
+    },
+    {
+        "id": "a579f091cf3f85d4",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Print Route",
+        "func": "if (msg.payload &&\n    msg.payload.features &&\n    Array.isArray(msg.payload.features) &&\n    msg.payload.features.length > 0) {\n\n    var feature = msg.payload.features[0];\n\n    if (feature.geometry &&\n        feature.geometry.coordinates &&\n        Array.isArray(feature.geometry.coordinates)) {\n\n        var coords = feature.geometry.coordinates;\n        var delay = 1000;\n\n        for (let i = 0; i < coords.length; i++) {\n            // Bearing based on directions and previous step\n            let bearing = 0;\n            if (i > 0) {\n                bearing = calculateBearing(coords[i - 1], coords[i]);\n            }\n            // Required for delay to work\n            setTimeout(() => {\n                var msgOut = {\n                    payload: {\n                        name: \"Van 1\",\n                        icon: \"car\",\n                        iconColor: \"orange\",\n                        lat: coords[i][1],\n                        lon: coords[i][0],\n                        speed: 50,\n                        track: bearing\n                    }\n                };\n                node.send(msgOut);\n            }, i * delay);\n        }\n    } else {\n        node.error(\"No valid geometry coordinates found\", msg);\n    }\n} else {\n    node.error(\"No valid features found in msg.payload\", msg);\n}\n\nfunction degreesToRadians(degrees) {\n    return degrees * Math.PI / 180;\n}\n\n// Required for bearing (start-end mapping)\nfunction calculateBearing(start, end) {\n    var lon1 = degreesToRadians(start[0]);\n    var lat1 = degreesToRadians(start[1]);\n    var lon2 = degreesToRadians(end[0]);\n    var lat2 = degreesToRadians(end[1]);\n    var y = Math.sin(lon2 - lon1) * Math.cos(lat2);\n    var x = Math.cos(lat1) * Math.sin(lat2) -\n        Math.sin(lat1) * Math.cos(lat2) * Math.cos(lon2 - lon1);\n    var brng = Math.atan2(y, x) * 180 / Math.PI;\n    // Normalize 0-360\n    return (brng + 360) % 360;\n}\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1970,
+        "y": 2040,
+        "wires": [
+            [
+                "2880d69703f42a2d"
+            ]
+        ]
+    },
+    {
+        "id": "9621d5df766206ad",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "0.01",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1620,
+        "y": 2000,
+        "wires": [
+            [
+                "0d028aa18e04c57b"
+            ]
+        ]
+    },
+    {
+        "id": "6eba0ed64494c7de",
+        "type": "change",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Stop Msg",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "control",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "deactivate",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1880,
+        "y": 2000,
+        "wires": [
+            [
+                "f8aaf6c4c8ec7afd"
+            ]
+        ]
+    },
+    {
+        "id": "ef3e0b790a7e0408",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "c1740c1e957f1c34",
+        "name": "COMMUNICATIONS",
+        "info": "",
+        "x": 1170,
+        "y": 2500,
+        "wires": []
+    },
+    {
+        "id": "2d1d8b68e83f44ec",
+        "type": "e-mail",
+        "z": "4ac6ef51dde99703",
+        "g": "c1740c1e957f1c34",
+        "server": "smtp.gmail.com",
+        "port": "465",
+        "authtype": "BASIC",
+        "saslformat": false,
+        "token": "oauth2Response.access_token",
+        "secure": true,
+        "tls": true,
+        "name": "T.Gwynne@wlv.ac.uk",
+        "dname": "Export Instructions",
+        "x": 1110,
+        "y": 2580,
+        "wires": []
+    },
+    {
+        "id": "cdd8486a923ddda5",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "c1740c1e957f1c34",
+        "name": "Advise Export Crew",
+        "func": "var instructions = global.get('delivermail') || 0;\n\nmsg.topic = \"Internal Communications: Exports\";\nmsg.payload = msg.payload.deliver\n\nmsg.from = \"Management Team\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 2580,
+        "wires": [
+            [
+                "2d1d8b68e83f44ec"
+            ]
+        ]
+    },
+    {
+        "id": "19a3211af91dab39",
+        "type": "ui_form",
+        "z": "4ac6ef51dde99703",
+        "g": "c1740c1e957f1c34",
+        "name": "Brewery Team",
+        "label": "Brewery Team: Ale",
+        "group": "2edf35dc2e9ee330",
+        "order": 1,
+        "width": 8,
+        "height": 1,
+        "options": [
+            {
+                "label": "Instructions for Export crew",
+                "value": "deliver",
+                "type": "text",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Management Update",
+                "value": "manage",
+                "type": "text",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "deliver": "",
+            "manage": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 320,
+        "y": 2580,
+        "wires": [
+            [
+                "c8dbc13507a0476c"
+            ]
+        ]
+    },
+    {
+        "id": "c8dbc13507a0476c",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "c1740c1e957f1c34",
+        "name": "Parse Message Context",
+        "func": "let manage = msg.payload.manage\nlet deliver = msg.payload.deliver\n\nglobal.set('managemail', manage)\nglobal.set('delivermail', deliver)\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 2580,
+        "wires": [
+            [
+                "cdd8486a923ddda5",
+                "36d12b0e53dd145c"
+            ]
+        ]
+    },
+    {
+        "id": "36d12b0e53dd145c",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "c1740c1e957f1c34",
+        "name": "Advise Management",
+        "func": "var instructions = global.get('delivermail') || 0;\n\nmsg.topic = \"Internal Communications: Management\";\nmsg.payload = msg.payload.manage\n\nmsg.from = \"Mr Colleague\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 840,
+        "y": 2620,
+        "wires": [
+            [
+                "6507326652545f2d"
+            ]
+        ]
+    },
+    {
+        "id": "6507326652545f2d",
+        "type": "e-mail",
+        "z": "4ac6ef51dde99703",
+        "g": "c1740c1e957f1c34",
+        "server": "smtp.gmail.com",
+        "port": "465",
+        "authtype": "BASIC",
+        "saslformat": false,
+        "token": "oauth2Response.access_token",
+        "secure": true,
+        "tls": true,
+        "name": "T.Gwynne@wlv.ac.uk",
+        "dname": "Management Update",
+        "x": 1100,
+        "y": 2620,
+        "wires": []
+    },
+    {
+        "id": "8bd0069c951df5c5",
+        "type": "ui_artlessgauge",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "group": "3a71324c40ab6674",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "Cases Stock",
+        "icon": "",
+        "label": "Case Stock",
+        "unit": "Cases",
+        "layout": "linear",
+        "decimals": 0,
+        "differential": false,
+        "minmax": false,
+        "colorTrack": "#555555",
+        "style": "",
+        "colorFromTheme": true,
+        "property": "cases",
+        "secondary": "secondary",
+        "inline": false,
+        "animate": true,
+        "sectors": [
+            {
+                "val": 0,
+                "col": "#ff0000",
+                "t": "min",
+                "dot": 2
+            },
+            {
+                "val": 200,
+                "col": "#ffab66",
+                "t": "sec",
+                "dot": 2
+            },
+            {
+                "val": 1000,
+                "col": "#ffab66",
+                "t": "max",
+                "dot": 2
+            }
+        ],
+        "lineWidth": 3,
+        "bgcolorFromTheme": true,
+        "diffCenter": "",
+        "x": 1250,
+        "y": 1940,
+        "wires": []
+    },
+    {
+        "id": "55c4f67cc9ece5ad",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Heat Loss",
+        "func": "var tankTempProcess = flow.get('btankTemp')\nvar thermLoss = flow.get('wkboilloss')\nvar waterInput = flow.get('wkwaterin')\n\nconst minTemp = 80;\nconst maxTemp = 90;\n\nlet newTemp = tankTempProcess - thermLoss - waterInput;\nif (newTemp < minTemp || newTemp > maxTemp) {\n        newTemp = Math.floor(Math.random() * (maxTemp - minTemp + 1)) + minTemp;}\n\n\nnode.warn(`${newTemp}`)\nflow.set('tankTemp', newTemp)\n\nlet gauge = Math.round(newTemp)\nmsg.temp = Math.round(newTemp)\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1100,
+        "y": 1440,
+        "wires": [
+            [
+                "a7f4b3658d6b95e4",
+                "38a3bc7905ac1667",
+                "71d0334f287d47fe"
+            ]
+        ]
+    },
+    {
+        "id": "ca04821291026cd5",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "name": "FINANCE",
+        "info": "",
+        "x": 1200,
+        "y": 2740,
+        "wires": []
+    },
+    {
+        "id": "c80e2a85474a3ed9",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "name": "Water and Heat Costs",
+        "func": "var totalWaterCost = flow.get('totalWaterCost') || 2.000\nvar totalHeatCost = flow.get('totalHeatCost') || 9.51\nvar waterSupply = flow.get('waterDemandCalc') || 0\nvar heatSupply = flow.get('thermDemandCalc')\nvar tankTemp = flow.get('tankTempProcess')\n\nconst updateWaterCost = waterSupply * 0.0002;\nconst updateHeatCost = heatSupply * 0.0015;\n\n// Update cumulative total\ntotalWaterCost += updateWaterCost;\ntotalHeatCost += updateHeatCost;\n\nflow.set('totalWaterCost', totalWaterCost);\nflow.set('totalHeatCost', totalHeatCost);\n\nmsg.payload = {\n    watercost: parseFloat(totalWaterCost.toFixed(2)),\n    heatcost: parseFloat(totalHeatCost.toFixed(2))\n};\n\nnode.warn(`Heat Supply: ${heatSupply}`)\nnode.warn(`Cumulative Water Cost: ${msg.payload.watercost}, Cumulative Heat Cost: ${msg.payload.heatcost}`);\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 2780,
+        "wires": [
+            [
+                "74d5a686f7c3cb87",
+                "f7b129d1bdead6e8",
+                "3539bd531b79507f"
+            ]
+        ]
+    },
+    {
+        "id": "3861b011bb48a2d6",
+        "type": "comment",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "name": "Sources for figures",
+        "info": "flow.get('wkwaterin') -  water demand, cost £0.002/unit\n                              Water Cost: 2.00 + wkwaterin*0.0002\nflow.get('wkboilin')  -  108kWh/hr for initial heating of 1000L fermenter, cost £9.504/hr\n                         initial: £9.504 for 108kWh/hr\n                      -  Baseline: 30kWh to keep ticking over: £2.64/hr\n                      -  thermsIn should correspond to kWh, e.g. 10 therms in = 10kW\n                              Heating Cost: 9.504 + thermsIn*0.088 ",
+        "x": 570,
+        "y": 2820,
+        "wires": []
+    },
+    {
+        "id": "74d5a686f7c3cb87",
+        "type": "ui_text",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "group": "2edf35dc2e9ee330",
+        "order": 6,
+        "width": "4",
+        "height": "2",
+        "name": "Water Cost",
+        "label": "Water Cost (£)",
+        "format": "{{msg.payload.watercost}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "Arial,Arial,Helvetica,sans-serif",
+        "fontSize": 16,
+        "color": "#ff0000",
+        "x": 830,
+        "y": 2760,
+        "wires": []
+    },
+    {
+        "id": "f7b129d1bdead6e8",
+        "type": "ui_text",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "group": "2edf35dc2e9ee330",
+        "order": 4,
+        "width": "4",
+        "height": "2",
+        "name": "Heat Cost",
+        "label": "Heat Cost (£)",
+        "format": "{{msg.payload.heatcost}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "Arial,Arial,Helvetica,sans-serif",
+        "fontSize": 16,
+        "color": "#ff0000",
+        "x": 820,
+        "y": 2800,
+        "wires": []
+    },
+    {
+        "id": "b7a0201133238471",
+        "type": "link out",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "link out 2",
+        "mode": "link",
+        "links": [
+            "deb2525f7a347d2b"
+        ],
+        "x": 1515,
+        "y": 1340,
+        "wires": []
+    },
+    {
+        "id": "ba0e16adab78f0ed",
+        "type": "link out",
+        "z": "4ac6ef51dde99703",
+        "g": "2c6626aacac182e4",
+        "name": "link out 3",
+        "mode": "link",
+        "links": [
+            "deb2525f7a347d2b"
+        ],
+        "x": 995,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "deb2525f7a347d2b",
+        "type": "link in",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "name": "link in 7",
+        "links": [
+            "b7a0201133238471",
+            "ba0e16adab78f0ed",
+            "7d438d0c4a219dc7",
+            "28dd1decc575e85e"
+        ],
+        "x": 255,
+        "y": 2780,
+        "wires": [
+            [
+                "02d3221c89685148"
+            ]
+        ]
+    },
+    {
+        "id": "f396f3f20ebceb12",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "Report Heat Costs",
+        "func": "var thermDemandCalc = global.get('wkboilin');\nflow.set('thermDemandCalc', thermDemandCalc)\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1330,
+        "y": 1340,
+        "wires": [
+            [
+                "998fdfa48a14d18a",
+                "b7a0201133238471"
+            ]
+        ]
+    },
+    {
+        "id": "998fdfa48a14d18a",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "797e3026e7a15292",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "0.2",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1320,
+        "y": 1300,
+        "wires": [
+            [
+                "f396f3f20ebceb12"
+            ]
+        ]
+    },
+    {
+        "id": "02d3221c89685148",
+        "type": "gate",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "closed",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 350,
+        "y": 2780,
+        "wires": [
+            [
+                "c80e2a85474a3ed9",
+                "dee4b56d5ee85506",
+                "ea187f1a9decfbea"
+            ]
+        ]
+    },
+    {
+        "id": "3539bd531b79507f",
+        "type": "debug",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "name": "debug 1001",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload.heatcost",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 830,
+        "y": 2840,
+        "wires": []
+    },
+    {
+        "id": "191e70096eaf31b4",
+        "type": "ui_led",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "order": 2,
+        "group": "2edf35dc2e9ee330",
+        "width": 6,
+        "height": "2",
+        "label": "Daily Production Goal Achieved",
+        "labelPlacement": "left",
+        "labelAlignment": "right",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#ffa500",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "Daily Production Goal Achieved",
+        "x": 1530,
+        "y": 2300,
+        "wires": []
+    },
+    {
+        "id": "b6065eba76e40eaa",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "name": "Revenue",
+        "func": "let productRevenue = flow.get('crateload') || 0\nlet prevProductRevenue = flow.get('prevProductRevenue') || 0;\nlet totalRevenue = flow.get('totalRevenue') || 0;\n\nif (productRevenue > prevProductRevenue) {\n    let increase = productRevenue - prevProductRevenue;\n    let revenue = increase * 40;\n\n    totalRevenue += revenue;\n\n    flow.set('totalRevenue', totalRevenue);}\n\n\nflow.set('prevProductRevenue', productRevenue);\n\nmsg.payload = totalRevenue.toFixed(2);\n\nnode.warn(`Product Revenue Increased: ${productRevenue}`);\nnode.warn(`Total Revenue: ${totalRevenue}`);\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 520,
+        "y": 2900,
+        "wires": [
+            [
+                "c86ee483ff1ccb0c",
+                "3111ed298461a6c6"
+            ]
+        ]
+    },
+    {
+        "id": "c86ee483ff1ccb0c",
+        "type": "ui_text",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "group": "2edf35dc2e9ee330",
+        "order": 8,
+        "width": "4",
+        "height": "2",
+        "name": "Revenue from Sales",
+        "label": "Revenue from Sales (£)",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "Lucida Sans Unicode,Lucida Grande,sans-serif",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 860,
+        "y": 2900,
+        "wires": []
+    },
+    {
+        "id": "3111ed298461a6c6",
+        "type": "debug",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "name": "debug 1002",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload.revenue",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 670,
+        "y": 2940,
+        "wires": []
+    },
+    {
+        "id": "dee4b56d5ee85506",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 360,
+        "y": 2900,
+        "wires": [
+            [
+                "b6065eba76e40eaa"
+            ]
+        ]
+    },
+    {
+        "id": "e5b6c4000680557d",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Revenue Calc",
+        "func": "var payloadin = msg.value\nflow.set('revenueProduct', payloadin)\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1260,
+        "y": 1860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4c88798eabc00ac0",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "name": "Net Profit",
+        "func": "let totalRevenue = flow.get('totalRevenue');\nlet totalWaterCost = flow.get('totalWaterCost');\nlet totalHeatCost = flow.get('totalHeatCost');\n\n\nconst netProfit = totalRevenue - totalWaterCost - totalHeatCost\nflow.set('netProfit', netProfit.toFixed(2))\n\nmsg.payload = flow.get('netProfit')\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 520,
+        "y": 3020,
+        "wires": [
+            [
+                "5f86ed05e5b86c0c"
+            ]
+        ]
+    },
+    {
+        "id": "ea187f1a9decfbea",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 360,
+        "y": 3020,
+        "wires": [
+            [
+                "4c88798eabc00ac0"
+            ]
+        ]
+    },
+    {
+        "id": "5f86ed05e5b86c0c",
+        "type": "ui_text",
+        "z": "4ac6ef51dde99703",
+        "g": "c80d974c114c1988",
+        "group": "2edf35dc2e9ee330",
+        "order": 9,
+        "width": "4",
+        "height": "2",
+        "name": "Net Profit",
+        "label": "Net Profit (£)",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "Arial,Arial,Helvetica,sans-serif",
+        "fontSize": 16,
+        "color": "#33d746",
+        "x": 820,
+        "y": 3020,
+        "wires": []
+    },
+    {
+        "id": "cf7d405bbc45de82",
+        "type": "toggle",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "",
+        "onOffTopic": "",
+        "onValue": "true",
+        "onType": "bool",
+        "offValue": "false",
+        "offType": "bool",
+        "toggleTopic": "",
+        "toggleValue": "false",
+        "toggleType": "bool",
+        "passOnOff": "ifChanged",
+        "x": 1450,
+        "y": 2040,
+        "wires": [
+            [
+                "9621d5df766206ad",
+                "f8aaf6c4c8ec7afd"
+            ]
+        ]
+    },
+    {
+        "id": "f8aaf6c4c8ec7afd",
+        "type": "gate",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "open",
+        "openCmd": "open",
+        "closeCmd": "deactivate",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 1610,
+        "y": 2040,
+        "wires": [
+            [
+                "01012191aa6a8406",
+                "d138c95e036c1b9c"
+            ]
+        ]
+    },
+    {
+        "id": "44be426ace744d70",
+        "type": "function",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "Retrieve Cases After Delivery",
+        "func": "var casesRetrieved = flow.get('casesRetrieved') || 0\nflow.set('casesRetrieved', Math.floor(Math.random() * (200 - 195 + 1)) + 195);\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2020,
+        "y": 2080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d138c95e036c1b9c",
+        "type": "delay",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "15",
+        "timeoutUnits": "minutes",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1790,
+        "y": 2080,
+        "wires": [
+            [
+                "44be426ace744d70"
+            ]
+        ]
+    },
+    {
+        "id": "0d028aa18e04c57b",
+        "type": "switch",
+        "z": "4ac6ef51dde99703",
+        "g": "5adb3d9f976abbc0",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "true",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1750,
+        "y": 2000,
+        "wires": [
+            [
+                "6eba0ed64494c7de"
+            ]
+        ]
+    },
+    {
+        "id": "12848f08355a650b",
+        "type": "ui_spacer",
+        "z": "4ac6ef51dde99703",
+        "name": "spacer",
+        "group": "ac1eab09c73ce8f3",
+        "order": 2,
+        "width": 8,
+        "height": 1
+    },
+    {
+        "id": "d84648ce3ccbc51f",
+        "type": "ui_spacer",
+        "z": "4ac6ef51dde99703",
+        "name": "spacer",
+        "group": "ac1eab09c73ce8f3",
+        "order": 3,
+        "width": 8,
+        "height": 1
+    },
+    {
+        "id": "37ea8f54c87b3dce",
+        "type": "ui_spacer",
+        "z": "4ac6ef51dde99703",
+        "name": "spacer",
+        "group": "ac1eab09c73ce8f3",
+        "order": 4,
+        "width": 8,
+        "height": 1
+    },
+    {
+        "id": "2b800c8a407d1574",
+        "type": "ui_spacer",
+        "z": "4ac6ef51dde99703",
+        "name": "spacer",
+        "group": "ac1eab09c73ce8f3",
+        "order": 5,
+        "width": 8,
+        "height": 1
+    },
+    {
+        "id": "39a979b44d65bef8",
+        "type": "ui_spacer",
+        "z": "4ac6ef51dde99703",
+        "name": "spacer",
+        "group": "2edf35dc2e9ee330",
+        "order": 3,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "1a6f742eafb4a211",
+        "type": "ui_spacer",
+        "z": "4ac6ef51dde99703",
+        "name": "spacer",
+        "group": "2edf35dc2e9ee330",
+        "order": 5,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "14f7c984bb5eb68b",
+        "type": "ui_spacer",
+        "z": "4ac6ef51dde99703",
+        "name": "spacer",
+        "group": "2edf35dc2e9ee330",
+        "order": 7,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "9c827763c3573955",
+        "type": "ui_spacer",
+        "z": "4ac6ef51dde99703",
+        "name": "spacer",
+        "group": "2edf35dc2e9ee330",
+        "order": 10,
+        "width": 14,
+        "height": 1
+    },
+    {
+        "id": "1ee5197c0dd46ece",
+        "type": "ui_spacer",
+        "z": "4ac6ef51dde99703",
+        "name": "spacer",
+        "group": "01b5bec2534e4f4a",
+        "order": 2,
+        "width": 8,
+        "height": 1
+    },
+    {
+        "id": "c783136d02b66193",
+        "type": "DB2 for i Config",
+        "cnnname": "IUGRED",
+        "db": "*LOCAL",
+        "keepalive": true
+    },
+    {
+        "id": "3e86821e0e02d9da",
+        "type": "ui_group",
+        "name": "Brew Temperature Control",
+        "tab": "2215323be190c922",
+        "order": 5,
+        "disp": true,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e207eea38c442aee",
+        "type": "ui_group",
+        "name": "Water Control",
+        "tab": "2215323be190c922",
+        "order": 4,
+        "disp": true,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "3a71324c40ab6674",
+        "type": "ui_group",
+        "name": "Case Production",
+        "tab": "2215323be190c922",
+        "order": 6,
+        "disp": true,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b9dd467d45ef6923",
+        "type": "ui_group",
+        "name": "Fleet Management",
+        "tab": "2215323be190c922",
+        "order": 7,
+        "disp": true,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "01b5bec2534e4f4a",
+        "type": "ui_group",
+        "name": "Hopper",
+        "tab": "2215323be190c922",
+        "order": 2,
+        "disp": true,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "de887429d516dace",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "ersc.ddns.net",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "2edf35dc2e9ee330",
+        "type": "ui_group",
+        "name": "The Wolf's Stupor Brewery",
+        "tab": "2215323be190c922",
+        "order": 1,
+        "disp": true,
+        "width": "40",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "2215323be190c922",
+        "type": "ui_tab",
+        "name": "i-Brew Brewery",
+        "icon": "Hops-In",
+        "disabled": false,
+        "hidden": false
+    }
+]
